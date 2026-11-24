@@ -1,0 +1,4 @@
+policy,approval_rate_pct,default_rate_approved_pct,precision_good_pct,defaults_caught_pct
+v1_baseline,73.2,12.19,87.81,52.4
+v2_tight,51.2,9.26,90.74,74.7
+v3_lenient,83.9,14.35,85.65,35.8
